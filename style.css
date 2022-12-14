@@ -1,0 +1,33 @@
+html,body{
+    background-color: whitesmoke;
+    font-family: 'Times New Roman';
+}
+
+.kotak{
+    width: 500px;
+    height: 290px;
+    background-color: #ffffff;
+    position: absolute;
+    justify-items: center;
+    top: 160px ;
+    left: 425px;
+    border-radius: 2%;
+    color: #000000;
+    border-color: #000000;
+    border: 1px solid black;
+    margin-top: 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+.kirim{
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
